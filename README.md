@@ -28,12 +28,8 @@ Each folder contains a project or script focused on solving a specific problem, 
 - **Example**: Automating the renaming and extension changes of large batches of files.
 
 ## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   ```
-2. Navigate to the specific project folder you are interested in.
+1. Navigate to the specific project folder you are interested in.
+2. Copy the code in your local computer.
 3. Follow the instructions provided in each project folder’s README (if available) or script comments.
 
 ## Prerequisites
@@ -49,4 +45,5 @@ Feel free to fork this repository and contribute your ideas or improvements. Mak
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+This repository is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. See the [LICENSE](./LICENSE) file for more details.
+
